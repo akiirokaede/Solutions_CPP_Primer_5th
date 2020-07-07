@@ -1,0 +1,7 @@
+hhh 1 10
+hhh 2 10
+hhh 3 10
+xjx 5 1
+xjx 1 15
+cxk 1 1
+cxk 5 10
